@@ -20,13 +20,13 @@
       <td>1.20.60</td>
       <td>2024-02-06</td>
       <td>695.65mb</td>
-      <td>[下载](https://minecraft.sn-m.xyz/bedrock/iOS&iPadOS/1.20.60.html)</td>
+      <td><a href="https://minecraft.sn-m.xyz/bedrock/iOS&iPadOS/1.20.60.html">下载</a></td>
     </tr>
     <tr>
       <td>1.20.51</td>
       <td>2023-12-14</td>
       <td>687.08mb</td>
-      <td>[下载](https://minecraft.sn-m.xyz/bedrock/iOS&iPadOS/1.20.51.html)</td>
+      <td><a href="https://minecraft.sn-m.xyz/bedrock/iOS&iPadOS/1.20.51.html">下载</a></td>
     </tr>
   </tbody>
 </table>
