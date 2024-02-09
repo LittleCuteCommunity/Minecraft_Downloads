@@ -9,4 +9,5 @@
 
 [Google Play 商店](https://play.google.com/store/apps/details?id%253Dcom.mojang.minecraftpe%2526hl%253Dzh_TW)
 
-下载：
+目录：
+
