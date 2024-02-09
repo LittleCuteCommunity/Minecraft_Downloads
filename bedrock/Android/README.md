@@ -6,6 +6,7 @@
   <thead>
     <tr>
       <th>版本</th>
+      <th>类型</th>
       <th>发布时间</th>
       <th>大小</th>
       <th>操作</th>
@@ -14,6 +15,7 @@
   <tbody>
     <tr>
       <td>1.20.60.04</td>
+      <td style="color:green;">正式版</td>
       <td>2024-02-06</td>
       <td>691.56mb</td>
       <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.60.04.html">下载</a></td>
