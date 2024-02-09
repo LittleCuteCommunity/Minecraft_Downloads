@@ -5,4 +5,4 @@
 
 [安卓版本](https://minecraft.sn-m.xyz/bedrock/Android/)
 
-[iOS&iPadOS版本](https://minecraft.sn-m.xyz/bedrock/iOS%2526iPadOS/)
+[iOS&iPadOS版本](https://minecraft.sn-m.xyz/bedrock/iOS&iPadOS/)
