@@ -6,7 +6,7 @@
 软件源：https://minecraft.sn-m.xyz/app.json
 
 ## 下载目录
-<table border="1" width="100%">
+<table border="1">
   <thead>
     <tr>
       <th>版本</th>

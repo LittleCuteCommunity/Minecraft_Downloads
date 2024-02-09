@@ -2,7 +2,7 @@
 本页面提供 Minecraft 安卓版本
 
 ## 下载目录(由 mcapks.com 提供)
-<table border="1" width="100%">
+<table border="1">
   <thead>
     <tr>
       <th>版本</th>
