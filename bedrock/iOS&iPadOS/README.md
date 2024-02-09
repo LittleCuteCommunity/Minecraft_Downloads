@@ -6,3 +6,5 @@
 软件源：https://minecraft.sn-m.xyz/app.json
 
 目录：
+
+[1.20.60](https://minecraft.sn-m.xyz/bedrock/iOS&iPadOS/1.20.60.html)
