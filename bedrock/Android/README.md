@@ -22,4 +22,4 @@
 </table>
 
 ## 其它源
-[MC版本库](https://bbk.endyun.ltd/download)
+<a href="https://bbk.endyun.ltd/download" target="_blank">MC版本库</a>
