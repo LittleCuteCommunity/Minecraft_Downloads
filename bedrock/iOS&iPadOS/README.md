@@ -5,7 +5,7 @@
 
 软件源：https://minecraft.sn-m.xyz/app.json
 
-## 目录
+## 下载目录
 <table border="1" width="100%">
   <thead>
     <tr>
