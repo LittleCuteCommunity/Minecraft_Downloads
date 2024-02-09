@@ -17,7 +17,7 @@
 
 <a href="https://apps.apple.com/app/id479516143" target="_blank">苹果 AppStore</a>
 
-<a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe" target="_blank">苹果 AppStore</a>
+<a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe" target="_blank">Google Play 商店</a>
 
 ## 目录
 [基岩版](https://minecraft.sn-m.xyz/bedrock/)
