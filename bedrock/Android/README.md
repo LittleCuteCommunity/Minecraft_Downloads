@@ -27,6 +27,13 @@
       <td>674.60mb</td>
       <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.70.21.html">下载</a></td>
     </tr>
+    <tr>
+      <td>1.20.70.20</td>
+      <td style="color:red;">测试版</td>
+      <td>2024-01-24</td>
+      <td>675.49mb</td>
+      <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.70.20.html">下载</a></td>
+    </tr>
   </tbody>
 </table>
 
