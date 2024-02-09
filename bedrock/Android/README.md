@@ -13,10 +13,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>1.20.60</td>
+      <td>1.20.60.04</td>
       <td>2024-02-06</td>
       <td>691.56mb</td>
-      <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.60.html">下载</a></td>
+      <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.60.04.html">下载</a></td>
     </tr>
   </tbody>
 </table>
