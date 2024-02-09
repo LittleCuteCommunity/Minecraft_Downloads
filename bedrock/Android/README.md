@@ -34,6 +34,27 @@
       <td>675.49mb</td>
       <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.70.20.html">下载</a></td>
     </tr>
+    <tr>
+      <td>1.20.60.26</td>
+      <td style="color:red;">测试版</td>
+      <td>2024-01-18</td>
+      <td>693.74mb</td>
+      <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.60.26.html">下载</a></td>
+    </tr>
+    <tr>
+      <td>1.20.60.25</td>
+      <td style="color:red;">测试版</td>
+      <td>2024-01-10</td>
+      <td>693.69mb</td>
+      <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.60.25.html">下载</a></td>
+    </tr>
+    <tr>
+      <td>1.20.60.24</td>
+      <td style="color:red;">测试版</td>
+      <td>2024-01-04</td>
+      <td>691.64mb</td>
+      <td><a href="https://minecraft.sn-m.xyz/bedrock/Android/1.20.60.24.html">下载</a></td>
+    </tr>
   </tbody>
 </table>
 
