@@ -9,7 +9,7 @@
     "apps":[
         {
             "name":"type1",
-            "type":"4",
+            "type":"1",
             "version":"7.5.1",
             "versionDate":"2023-08-14T23:19:29+08:00",
             "versionDescription":"",
