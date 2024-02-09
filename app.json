@@ -19,6 +19,19 @@
             "iconURL":"https://minecraft.sn-m.xyz/logo.png",
             "tintColor":"",
             "size":"729441894.40"
+        },
+        {
+            "name":"Minecraft 1.20.51 (城通网盘下载通道)",
+            "type":"2",
+            "version":"1.20.51",
+            "versionDate":"2023-12-25T00:00:00+08:00",
+            "versionDescription":"暂无版本更新简要",
+            "lock":"0",
+            "downloadURL":"https://93-cucc-dd.tv002.com/down/1f42278bb9419ca162daf4c3ad6cb874/Minecraft_1.20.51.ipa?cts=D60A24A248A213Fdf502&ctp=60A24A248A213&ctt=1707491722&limit=1&spd=260000&ctk=1f42278bb9419ca162daf4c3ad6cb874&chk=042a8c65585cebc6782f7e3ae488f17f-687081676",
+            "isLanZouCloud":"0",
+            "iconURL":"https://minecraft.sn-m.xyz/logo.png",
+            "tintColor":"",
+            "size":"729441894.40"
         }
     ]
 }
