@@ -10,4 +10,5 @@
 [Google Play 商店](https://play.google.com/store/apps/details?id%253Dcom.mojang.minecraftpe%2526hl%253Dzh_TW)
 
 目录：
+
 [基岩版](https://minecraft.sn-m.xyz/bedrock/)
