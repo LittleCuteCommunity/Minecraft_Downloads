@@ -7,3 +7,5 @@
 
 ## 目录
 [1.20.60](https://minecraft.sn-m.xyz/bedrock/iOS&iPadOS/1.20.60.html)
+
+[1.20.51](https://minecraft.sn-m.xyz/bedrock/iOS&iPadOS/1.20.51.html)
